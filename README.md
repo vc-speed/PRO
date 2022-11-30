@@ -2,8 +2,6 @@
 
 # SSH-PLUS
 
-# @ALFAINTERNET
-
 *PROJETO EM ANDAMENTO...
 
 
@@ -17,6 +15,6 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/TH30R10N/PR0/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/vc-speed/main/ssh-plus)
 
 ```
