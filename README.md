@@ -15,6 +15,6 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/vc-speed/main/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/vc-speed/PRO/main/ssh-plus)
 
 ```
